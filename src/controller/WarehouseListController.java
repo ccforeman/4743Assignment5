@@ -1,11 +1,9 @@
 package controller;
 
-import java.util.List;
 import java.util.Observable;
 import java.util.Observer;
 
 import javax.swing.AbstractListModel;
-import javax.swing.event.ListDataListener;
 
 import model.Warehouse;
 import model.WarehouseList;

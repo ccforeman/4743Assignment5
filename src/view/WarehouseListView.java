@@ -22,7 +22,6 @@ import controller.MDIChild;
 import controller.MDIParent;
 import controller.MenuCommands;
 import controller.WarehouseListController;
-import database.GatewayException;
 import model.InventoryItem;
 import model.InventoryItemList;
 import model.Warehouse;

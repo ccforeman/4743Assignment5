@@ -1,7 +1,6 @@
 package security;
 
 import java.util.HashMap;
-import java.util.Map;
 
 import model.User;
 

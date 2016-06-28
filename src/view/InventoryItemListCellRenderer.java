@@ -8,7 +8,6 @@ import javax.swing.JList;
 import javax.swing.ListCellRenderer;
 
 import model.InventoryItem;
-import model.Part;
 
 public class InventoryItemListCellRenderer implements ListCellRenderer<InventoryItem> {
 

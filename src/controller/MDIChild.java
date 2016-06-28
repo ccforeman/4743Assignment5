@@ -1,7 +1,6 @@
 package controller;
 
 import java.awt.Container;
-import java.awt.event.WindowEvent;
 import java.beans.PropertyVetoException;
 
 import javax.swing.JInternalFrame;

@@ -1,9 +1,5 @@
 package model;
 
-import java.nio.charset.StandardCharsets;
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
-
 import security.Hasher;
 
 public class User {

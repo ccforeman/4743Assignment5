@@ -12,10 +12,10 @@ import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.JScrollPane;
 
+import controller.InventoryItemListController;
 import controller.MDIChild;
 import controller.MDIParent;
 import controller.MenuCommands;
-import controller.InventoryItemListController;
 import model.InventoryItem;
 
 public class InventoryItemListView extends MDIChild {

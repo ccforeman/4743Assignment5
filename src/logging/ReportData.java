@@ -1,8 +1,5 @@
 package logging;
 
-import org.apache.pdfbox.pdmodel.font.PDFont;
-import org.apache.pdfbox.pdmodel.font.PDType1Font;
-
 public class ReportData {
 	private String warehouseName;
 	private String partNum;

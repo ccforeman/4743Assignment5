@@ -12,7 +12,6 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-
 import controller.MDIChild;
 import controller.MDIParent;
 import controller.MenuCommands;

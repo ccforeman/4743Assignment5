@@ -1,16 +1,17 @@
 package database;
 
+import java.io.FileInputStream;
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.io.FileInputStream;
-import java.io.IOException;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
 import javax.sql.DataSource;
+
 import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
 
 import model.Part;

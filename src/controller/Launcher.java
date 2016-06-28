@@ -1,29 +1,18 @@
 package controller;
 
-import java.sql.SQLException;
-import java.util.List;
-import java.util.Map;
-
 import javax.swing.JFrame;
-import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 
-import database.PartTableGateway;
-import database.WarehouseTableGateway;
 import database.GatewayException;
 import database.InventoryItemTableGateway;
-
-import model.InventoryItem;
+import database.PartTableGateway;
+import database.WarehouseTableGateway;
 import model.InventoryItemList;
-import model.Part;
 import model.PartList;
-import model.States;
 import model.Warehouse;
 import model.WarehouseList;
-
-import security.Hasher;
 import security.Authenticator;
 /**
  * 
